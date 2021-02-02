@@ -1,0 +1,10 @@
+.App body {
+    font-family: "Noto Sans", sans-serif;
+    margin-top: 15px;
+    color: white;
+}
+.App footer {
+    margin: 7px 0 0 265px;
+    color: #37474f;
+}
+

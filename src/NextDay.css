@@ -1,0 +1,24 @@
+.NextDay p {
+    margin-left: 10px;
+}
+
+.NextDay #day {
+    font-size: 17px;
+    margin-bottom: 0;
+}
+
+.NextDay .forecast {
+    color: #37474f;  
+}
+  
+.NextDay #max {
+    font-size: 17px;
+}
+  
+.NextDay #min {
+    font-size: 12px;
+}
+
+.NextDay .row {
+    margin-bottom: 5px;
+}

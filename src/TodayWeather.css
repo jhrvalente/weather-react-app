@@ -1,0 +1,40 @@
+.TodayWeather #rectangle {
+    position: relative;
+    left: 15px;
+    top:10px;
+    width: 455px;
+    height: 155px;
+    background-color: rgb(76, 146, 146);
+    border-radius: 4px;
+}
+  
+.TodayWeather #temp {
+    display: inline;
+    position: relative;
+    top: 20px;
+    font-size: 60px;
+}
+  
+.TodayWeather #description {
+    margin-left: 25px;
+    text-transform: capitalize;
+}
+  
+.TodayWeather #humidity, #wind {
+    font-size: 18px;
+}
+  
+.TodayWeather .fa-tint, .fa-wind {
+    position: relative;
+    margin-right: 8px;
+    margin-top: 42px;
+    font-size: 22px;
+}
+  
+.TodayWeather .fa-wind {
+    margin-top: 12px;
+}
+
+.TodayWeather .col-3 {
+    padding: 30px 0 0 30px;
+}

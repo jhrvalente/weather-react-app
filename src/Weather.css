@@ -1,0 +1,73 @@
+.today-block {
+    height: 550px;
+    border: 1px solid #7fbbb3;
+    border-radius: 2px;
+    background-color: #7fbbb3;
+    color: white;
+    width: 540px;
+    margin: 25px 0 0 265px;
+    padding: 30px 40px;
+} 
+
+.h1-todayweather {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+
+.buttoncurrentcity {
+    background-color: #37474f;
+    border: transparent;
+    border-radius: 5px;
+    padding: 8px 10px;
+    color: white;
+}
+
+.buttonsearch {
+    position: relative;
+    left: 27px;
+    background-color: #37474f;
+    border: transparent;
+    border-radius: 5px;
+    padding: 8px 10px;
+    color: white;
+}
+.buttoncurrentcity:hover, .Weather .buttonsearch:hover {
+    background-color: rgb(76, 146, 146);
+}
+
+.entercity {
+    position: relative;
+    left: 20px;
+    width: 60%;
+    border: 1.5px solid rgb(76, 146, 146);
+    border-radius: 8px;
+    padding: 8px 8px;
+    text-align: left;
+}
+
+.Units {
+    margin-top: 30px;
+    font-size: 20px;
+}
+  
+.nextdays-block {
+    height: 550px;
+    border: 1px solid #7fbbb3;
+    border-radius: 2px;
+    background-color: #7fbbb3;
+    color: white;
+    width: 250px;
+    margin: 25px 0 0 10px;
+    padding: 30px 20px;
+}
+
+.h1-nextdaysweather {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-left: 12px;
+    margin-bottom: 35px;
+}
+
+
+
